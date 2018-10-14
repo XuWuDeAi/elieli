@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="main.zm.elieli.fragment.DownLoadFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="@color/lmColor"
+        android:text="经费不足,施工中" />
+
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/bt_baba"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="打赏开发者"
+        app:bootstrapBrand="danger"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        app:bootstrapSize="lg"
+        app:buttonMode="regular"
+        app:showOutline="false"
+        app:roundedCorners="true"
+        />
+
+</FrameLayout>

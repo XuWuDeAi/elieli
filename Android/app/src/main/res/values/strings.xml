@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">elieli</string>
+    <string name="title_home">最新</string>
+    <string name="title_dashboard">追番</string>
+    <string name="title_notifications">下载</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_show_fan">ShowFanActivity</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+

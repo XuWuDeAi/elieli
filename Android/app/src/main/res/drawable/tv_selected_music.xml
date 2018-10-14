@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><!--<selector xmlns:android="http://schemas.android.com/apk/res/android">--><!--&lt;!&ndash;触摸状态时颜色&ndash;&gt;--><!--&lt;!&ndash;<item android:drawable="@color/music_item_activity" android:state_focused="true" />&ndash;&gt;--><!--&lt;!&ndash;点击状态是颜色&ndash;&gt;--><!--&lt;!&ndash;<item android:drawable="@color/music_item_activity" android:state_pressed="true" />&ndash;&gt;--><!--&lt;!&ndash;默认颜色&ndash;&gt;--><!--<item android:drawable="@color/white" />--><!--</selector>-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/gray_20">
+    <item android:drawable="@color/white" />
+</ripple>
+
